@@ -17,3 +17,12 @@ body{
 #licoes_aprendidas{
     list-style: decimal;
 }
+
+#licoes_a_aprender{
+    list-style: decimal;
+}
+
+#rodape{
+    background-color: blue;
+    display: flex; flex-direction: row; justify-content: center;
+}
