@@ -9,3 +9,11 @@ body{
     display: flex; flex-direction: row; justify-content: center;
 
 }
+
+#minha_foto{
+    border-radius: 100px;
+}
+
+#licoes_aprendidas{
+    list-style: decimal;
+}
