@@ -5,7 +5,10 @@ body {
 #cabecalho {
     margin: 0px;
     position: static;
+    background-color: brown;
     top: 0px;
+    width: auto;
+    height: auto;
     display: flex; 
     flex-direction: row; 
     justify-content: center;
