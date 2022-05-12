@@ -1,21 +1,21 @@
-body { 
-    background-color:rgb(253, 251, 251); 
+body {
+    background-color:rgb(253, 251, 251);
 }
 
 #cabecalho {
     margin: 0px;
     position: static;
     background-color: brown;
-    top: 0px;
-    width: auto;
-    height: auto;
+    margin-top: 0px;
+    width: 1000px;
+    height: 100px;
     display: flex; 
     flex-direction: row; 
     justify-content: center;
 
 }
 
-#minha_foto {
+#minha_foto { 
     border-radius: 100px;
 }
 
@@ -23,7 +23,7 @@ body {
     list-style: decimal;
 }
 
-#licoes_a_aprender{
+#licoes_a_aprender {
     list-style: circle;
 }
 
