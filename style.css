@@ -15,6 +15,11 @@ body {
 
 }
 
+#titulo{
+    
+     font-family:'Rubik', sans-serif;
+}
+
 #minha_foto { 
     border-radius: 100px;
 }
