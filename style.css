@@ -3,11 +3,11 @@ body {
 }
 
 #cabecalho {
-    margin: 0px;
+    
     position: static;
     background-color: brown;
-    margin-top: 0px;
-    width: 1000px;
+    top: 0px;
+    width: 1366px;
     height: 100px;
     display: flex; 
     flex-direction: row; 
